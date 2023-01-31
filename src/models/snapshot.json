@@ -1,0 +1,44 @@
+{
+  "9f37047c-89fc-4a1f-9cc6-ce0415d67910": {
+    "__typename": "Appointment",
+    "bookedAt": null,
+    "end": "2023-12-04 15:00:00",
+    "id": "9f37047c-89fc-4a1f-9cc6-ce0415d67910",
+    "start": "2023-12-04 14:00:00"
+  },
+  "050d0f01-16cc-410c-98ee-da2698c4f25f": {
+    "__typename": "Appointment",
+    "bookedAt": null,
+    "end": "2023-12-04 16:00:00",
+    "id": "050d0f01-16cc-410c-98ee-da2698c4f25f",
+    "start": "2023-12-04 15:00:00"
+  },
+  "30d34964-b12e-475a-87ff-3641dfce1d3d": {
+    "__typename": "Appointment",
+    "bookedAt": null,
+    "end": "2023-12-04 17:00:00",
+    "id": "30d34964-b12e-475a-87ff-3641dfce1d3d",
+    "start": "2023-12-04 16:00:00"
+  },
+  "54414180-f0b6-4810-8613-810840e7f746": {
+    "__typename": "Appointment",
+    "bookedAt": null,
+    "end": "2023-12-04 18:00:00",
+    "id": "54414180-f0b6-4810-8613-810840e7f746",
+    "start": "2023-12-04 17:00:00"
+  },
+  "9b675391-5d88-4889-99c0-eb61fc401564": {
+    "__typename": "Appointment",
+    "bookedAt": null,
+    "end": "2023-12-04 19:00:00",
+    "id": "9b675391-5d88-4889-99c0-eb61fc401564",
+    "start": "2023-12-04 18:00:00"
+  },
+  "26849619-690f-4fc5-95fc-9b8aa257f968": {
+    "__typename": "Appointment",
+    "bookedAt": null,
+    "end": "2023-12-04 20:00:00",
+    "id": "26849619-690f-4fc5-95fc-9b8aa257f968",
+    "start": "2023-12-04 19:00:00"
+  }
+}
