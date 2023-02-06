@@ -1,9 +1,10 @@
 import './App.css';
+import CalendarWeek from './components/CalendarWeek';
 
 function App() {
   return (
     <div className="App">
-      <p>Components Go Here</p>
+      <CalendarWeek />
     </div>
   );
 }

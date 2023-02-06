@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
+    "@mobiscroll/react": "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-5.21.2.tgz",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.2.1",
@@ -45,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "jest-canvas-mock": "^2.4.0",
     "prettier": "^2.8.3"
   }
 }
